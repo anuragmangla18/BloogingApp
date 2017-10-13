@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.apkglobal.anurag.formula.SplashActivity">
+    <com.github.siyamed.shapeimageview.RoundedImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/businessman"
+        app:siRadius="6dp"
+        app:siBorderWidth="6dp"
+        android:id="@+id/hide"
+        app:siBorderColor="@color/splash"
+        app:siSquare="true"
+        android:layout_marginBottom="@dimen/splash"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/splash"
+        android:text="@string/spash"
+        android:gravity="center"
+        android:textColor="@color/splashtext"
+        />
+
+
+</LinearLayout>

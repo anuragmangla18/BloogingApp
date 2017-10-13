@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bloogg Blog</string>
+    <string name="spash">Your Idea</string>
+    <string name="title_activity_main1">MainActivity1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">Blog</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="slide_1_title">Hello Blog!</string>
+    <string name="slide_1_desc">The easiest way to Express your Idea!</string>
+
+    <string name="slide_2_title">What is Blog</string>
+    <string name="slide_2_desc">Add new material to or regularly update a blog!</string>
+
+    <string name="slide_3_title">Great Read</string>
+    <string name="slide_3_desc">Best Ideas from great Person!</string>
+
+    <string name="slide_4_title">Knowledge</string>
+    <string name="slide_4_desc">It will Help in Increasing your mental thinking!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
